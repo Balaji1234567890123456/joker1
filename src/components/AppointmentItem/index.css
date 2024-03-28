@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.lol {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.mol {
+  display: flex;
+  margin: 20px;
+  border-radius: 20px;
+}
